@@ -98,9 +98,6 @@ public class input{
         //%.[jumlah angka di belakang koma]f  
         // --> membulatkan angka berkoma ke jumlah angka setelah desimal (bagaimana kalau lebih?)
 
-        //%d (diisi data float) 
-        // --> membulatkan angka berkoma ke angka bulat terdekat
-
         //%,[jumlah angka terpisah]d 
         // --> memisahkan angka bulat dengan koma berdasarkan jumlah angka yang ditentukan
 
