@@ -94,7 +94,7 @@ public class belajarMethod {
     //method return type HARUS ada keyword 'return' untuk mengembalikan nilainya yaa
     //kebalikan dari method void, method return type justru biasanya dipake dalam print, atau untuk isi variable
     // int simpanMethod = methodReturn();
-    // System.out.println(methodReturn()));
+    // System.out.println(methodReturn());
 
     static double luasLingkaran(float jariJari) {
         return Math.pow(jariJari, 2)*3.14;
